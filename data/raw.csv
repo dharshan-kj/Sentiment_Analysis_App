@@ -1,0 +1,11 @@
+text,label
+"I love this product! It works great and exceeded my expectations.",positive
+"This is the worst purchase I have ever made. Totally disappointed.",negative
+"It's okay, nothing special about it.",neutral
+"Great value for the price. Highly recommend!",positive
+"Not what I expected, but it's still usable.",neutral
+"I hate how this broke after one use.",negative
+"The service was fine, nothing outstanding.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"Terrible quality. Do not waste your money.",negative
+"Average experience, might consider alternatives.",neutral
